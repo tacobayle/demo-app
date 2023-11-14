@@ -1,4 +1,0 @@
-name: demo-app
-domain: vcenter.alb.com
-replica: 2
-image: tacobayle/busybox-v1
