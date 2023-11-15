@@ -5,3 +5,5 @@ terraform.tfstate.lock.info
 .terraform.lock.hcl
 .idea/
 demo-app/templates/.temporary
+.delete.sh
+.create.sh
